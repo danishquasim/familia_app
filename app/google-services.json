@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3455383268",
+    "firebase_url": "https://familia-7d6ce.firebaseio.com",
+    "project_id": "familia-7d6ce",
+    "storage_bucket": "familia-7d6ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3455383268:android:f74088720717540df81ef1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3455383268-6jf38672f05mkvjb850n9j8a507kr5d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "7442b3644f66860cfccf45543aa96e1616f734f6"
+          }
+        },
+        {
+          "client_id": "3455383268-0s73lbdq4jkg5oedrppm50dkf2jnclsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaHZaXGmmAlgStC47HCPcswb33S2n9rHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3455383268-0s73lbdq4jkg5oedrppm50dkf2jnclsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
